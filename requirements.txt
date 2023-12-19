@@ -1,0 +1,6 @@
+requests
+pandas
+pillow
+ipykernel
+matplotlib
+beautifulsoup4
